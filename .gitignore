@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Editor settings
+.vscode/settings.json
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
